@@ -20,7 +20,7 @@
           <span>📫 pablotoledoemail@gmail.com</span>
         </li>
         <li>
-          💻 <a href="https://github.com/PabloToledoGit" target="_blank">Portfólio</a>
+          💻 <a href="https://pablotoledo.vercel.app/" target="_blank">Portfólio</a>
         </li>
       </ul>
     </td>
