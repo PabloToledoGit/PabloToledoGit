@@ -3,7 +3,7 @@
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td style="border: 0";>
-      <img width="400" src="[https://portfolio-nine-psi-30.vercel.app/assets/img/avatar-vinicius.svg](https://github.com/PabloToledoGit/pabloToledoPortfolio/blob/main/img/pabloToledo.png)" />
+      <img width="400" src="https://github.com/PabloToledoGit/pabloToledoPortfolio/blob/main/img/pabloToledo.png" />
     </td>
     <td style="border: 0";>
       <p>
