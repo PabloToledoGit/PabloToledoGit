@@ -14,7 +14,7 @@
           <span>🔭 Trabalhando atualmente com Desenvolvimento Web.</span>
         </li>
         <li>
-         <span>🌱 Aprofundando meus conhecimentos em React.JS.</span>
+         <span>🌱 Aprofundando meus conhecimentos em JavaScript.</span>
         </li>
         <li>
           <span>📫 pablotoledoemail@gmail.com</span>
