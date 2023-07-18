@@ -1,4 +1,4 @@
-# Olá, eu sou Pablo Toledo Cordovil! 👨🏻‍💻
+#<h1 align="center"> Olá, eu sou Pablo Toledo Cordovil!</h1> 👨🏻‍💻
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=839cb5&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Pablo+Toledo+Cordovil;Tenho+18+anos;Cursando+Análise+e+Desenvolvimento+de+Sistemas;Seja+Bem+Víndo!+:%29)](https://git.io/typing-svg)
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
