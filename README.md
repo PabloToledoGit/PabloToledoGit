@@ -1,9 +1,9 @@
-# Olá, eu sou Pablo Toledo Cordovil! 👨🏻‍💻
+# <h1 align="center">Olá, eu sou Pablo Toledo Cordovil!👨🏻‍💻</h1>
 
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td style="border: 0";>
-      <img width="400" src="https://portfolio-nine-psi-30.vercel.app/assets/img/avatar-vinicius.svg" />
+      <img width="400" src="[https://portfolio-nine-psi-30.vercel.app/assets/img/avatar-vinicius.svg](https://github.com/PabloToledoGit/pabloToledoPortfolio/blob/main/img/pabloToledo.png)" />
     </td>
     <td style="border: 0";>
       <p>
@@ -14,13 +14,13 @@
           <span>🔭 Trabalhando atualmente com Desenvolvimento Web.</span>
         </li>
         <li>
-         <span>🌱 Aprofundando meus conhecimentos em React.JS.</span>
+         <span>🌱 Aprofundando meus conhecimentos em JavaScript.</span>
         </li>
         <li>
           <span>📫 pablotoledoemail@gmail.com</span>
         </li>
         <li>
-          💻 <a href="https://github.com/PabloToledoGit" target="_blank">Portfólio</a>
+          💻 <a href="https://pablotoledo.vercel.app/" target="_blank">Portfólio</a>
         </li>
       </ul>
     </td>
