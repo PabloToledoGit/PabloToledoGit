@@ -1,29 +1,4 @@
 
-#<h1 align="center">Olá, eu sou Pablo Toledo Cordovil!👨🏻‍💻</h1>
-
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td style="border: 0";>
-      <p>
-        💻 Desenvolvedor Web Front-end. Posso desenvolver sites responsivos a partir do zero e transformá-los em experiências web modernas e fáceis de usar.
-      </p>
-      <ul>
-        <li>
-          <span>🔭 Trabalhando atualmente com Desenvolvimento Web.</span>
-        </li>
-        <li>
-         <span>🌱 Aprofundando meus conhecimentos em JavaScript.</span>
-        </li>
-        <li>
-          <span>📫 pablotoledoemail@gmail.com</span>
-        </li>
-        <li>
-          💻 <a href="https://pablotoledo.vercel.app/" target="blank">Portfólio</a>
-        </li>
-      </ul>
-    </td>
-  </tr>
-</table>
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PabloToledoGit&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PabloToledoGit&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PabloToledoGit&theme=nord_dark) |
 | :-: | :-: | :-: |
