@@ -4,9 +4,6 @@
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td style="border: 0";>
-      <img width="400" src="https://github.com/PabloToledoGit/pabloToledoPortfolio/blob/main/img/pabloToledo.png" />
-    </td>
-    <td style="border: 0";>
       <p>
         💻 Desenvolvedor Web Front-end. Posso desenvolver sites responsivos a partir do zero e transformá-los em experiências web modernas e fáceis de usar.
       </p>
